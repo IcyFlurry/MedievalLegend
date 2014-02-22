@@ -24,11 +24,5 @@ public class RenderCerf extends RenderLiving {
     {
         return this.getCerfTextures((EntityCerf)par1Entity);
     }
-	@Override
-	public void doRender(Entity entity, double d0, double d1, double d2,
-			float f, float f1) {
-
-		
-	}
     
 }
