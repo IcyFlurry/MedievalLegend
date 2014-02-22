@@ -9,7 +9,7 @@ import net.minecraft.util.ResourceLocation;
 
 public class RenderCerf extends RenderLiving {
 
-	protected static final ResourceLocation texture = new ResourceLocation("medievallegend:Cerf.png");
+	protected static final ResourceLocation texture = new ResourceLocation("medievallegend:textures/entity/Cerf.png");
 
 	
 	public RenderCerf(ModelCerf modelCerf, float tailleOmbre) {
