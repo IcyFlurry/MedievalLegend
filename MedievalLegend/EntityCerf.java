@@ -18,7 +18,7 @@ public class EntityCerf extends EntityCreature {
         this.getEntityAttribute(SharedMonsterAttributes.maxHealth).setAttribute(40D);
         this.getEntityAttribute(SharedMonsterAttributes.followRange).setAttribute(40.0D);
         this.getEntityAttribute(SharedMonsterAttributes.movementSpeed).setAttribute(0.699999988079071D);
-        this.getEntityAttribute(SharedMonsterAttributes.attackDamage).setAttribute(8.0D);
+    //    this.getEntityAttribute(SharedMonsterAttributes.attackDamage).setAttribute(8.0D);
     }
 	
 
